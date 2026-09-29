@@ -1,0 +1,22 @@
+{
+ "sag": {
+  "inference_ms": 4.97770862399932,
+  "decision_ms": 1.1607981019975568,
+  "decision_p95_ms": 0.8400436499073293
+ },
+ "shield": {
+  "inference_ms": 4.971457879004447,
+  "decision_ms": 0.7624414884998032,
+  "decision_p95_ms": 1.0332481502018709
+ },
+ "box": {
+  "inference_ms": 4.8382764584963525,
+  "decision_ms": 0.06288017300187221,
+  "decision_p95_ms": 0.10408195001900822
+ },
+ "sag_full_path_only": {
+  "inference_ms": 5.593355392000035,
+  "decision_ms": 16.715371016998233,
+  "decision_p95_ms": 29.91668834997654
+ }
+}
